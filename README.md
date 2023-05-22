@@ -36,7 +36,7 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-'vhd1
+`vhd1
 module adders(a,b,c,sum,carry,sum1,carry1);
 input a,b,c;
 output sum,carry,sum1,carry1;
