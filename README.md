@@ -45,6 +45,7 @@ and(carry,a,b);
 assign sum1=((a^b^c));
 assign carry1=((a&b)|(b&c)|(a&c));
 endmodule
+```
 
 
 
