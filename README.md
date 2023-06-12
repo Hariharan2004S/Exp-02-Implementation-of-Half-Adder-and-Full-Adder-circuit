@@ -67,6 +67,11 @@ RTL realization
 
 
 
-### TRUTH TABLE 
+### TRUTH TABLE
+Half adder
+![adder](https://github.com/Hariharan2004S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/123146156/2dde2920-4f05-4684-8db3-62549d89a81f)
+Full adder
+![fulladder](https://github.com/Hariharan2004S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/123146156/e52f3932-d527-4b9d-bca1-6520e5845759)
+
 
 ### Result:
